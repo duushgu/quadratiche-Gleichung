@@ -1,1 +1,1 @@
-# Informatik ins Studienkolleg
+#Quadratische Gleichung
